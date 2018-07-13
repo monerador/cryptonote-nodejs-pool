@@ -19,6 +19,7 @@
         "node-telegram-bot-api": "*",
         "nodemailer": "2.7.2",
         "nodemailer-sendmail-transport": "*",
+	"js-sha3": "*",
         "redis": "*",
         "socket.io": "^2.1.1",
         "time-ago": "*"
